@@ -1,0 +1,2 @@
+# Ignore local docker mysql data
+mysql_data/
