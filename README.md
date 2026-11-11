@@ -1,6 +1,6 @@
 # awsdatabse
 
-Database name is : databasedemo
+Database name is : databasedemo  
 
 docker run -d -p 8080:8080 \
   -e DB_HOST="xxxxxxxxxxx.rds.amazonaws.com:3306" \
